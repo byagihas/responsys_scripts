@@ -1,0 +1,149 @@
+CONNECT_JOB_NAME,CAMPAIGN,Source,Job Type
+!EXPORT_PERSADO_BOUNCE,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_CLICK,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_CONTENT,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_CONVERSION,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_LAUNCH,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_OPEN,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_OPT_OUT,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_SEGMENTS,N/A,INTERNAL,Export Supplemental Data
+!EXPORT_PERSADO_SENT,N/A,INTERNAL,Export Supplemental Data
+!IMPORT_CED_BOUNCE,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_CLICK,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_CONVERT,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_LAUNCH_STATE,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_OPEN,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_OPT_OUT,N/A,INTERNAL,Import Supplemental Data
+!IMPORT_CED_SENT,N/A,INTERNAL,Import Supplemental Data
+49Dollar_Suppression_DL,N/A,INTERNAL,Export Profile Extension Data
+Activity filter fallout export,N/A,INTERNAL,Export Supplemental Data
+Activity filter fallout import,N/A,INTERNAL,Import Supplemental Data
+Air Shopper All Export 10AM,Air Shopper,INTERNAL,Export Supplemental Data
+Air Shopper All Export 1PM,Air Shopper,INTERNAL,Export Supplemental Data
+Air Shopper All Export 4PM,Air Shopper,INTERNAL,Export Supplemental Data
+Anniversary PET Export,Anniversary,INTERNAL,Export Supplemental Data
+Anniversary PET Import,Anniversary,INTERNAL,Import Profile Data
+AP-HC-CRS-SELL Sup Exp 0345PM,Air Purchasers Cross Sell,INTERNAL,Export Supplemental Data
+AP-HC-CRS-SELL Sup Exp 1245PM,Air Purchasers Cross Sell,INTERNAL,Export Supplemental Data
+AP-HC-CRS-SELL Sup Imp 0115PM,Air Purchasers Cross Sell,INTERNAL,Import Supplemental Data
+AP-HC-CRS-SELL Sup Imp 0430PM,Air Purchasers Cross Sell,INTERNAL,Import Supplemental Data
+Car Shopper All Export 4PM,Car Shopper,INTERNAL,Export Supplemental Data
+Car Shopper All Export 945AM,Car Shopper,INTERNAL,Export Supplemental Data
+Car Shopper All Exprt 1PM,Car Shopper,INTERNAL,Export Supplemental Data
+COVID19_Car_Refund_Cash,COVID19 - Car Refund,EXTERNAL,Import Supplemental Data
+COVID19_Car_Refund_HD,COVID19 - Car Refund,EXTERNAL,Import Supplemental Data
+COVID19_State_Outreach,COVID19 - State Outreach,EXTERNAL,Import Supplemental Data
+CP-H-CROSS-SELL Sup Exprt 11AM,Car Purchasers Hotel Cross Sell,INTERNAL,Export Supplemental Data
+CP-H-CROSS-SELL Sup Exprt 2 PM,Car Purchasers Hotel Cross Sell,INTERNAL,Export Supplemental Data
+CP-H-CROSS-SELL Sup Exprt 5 PM,Car Purchasers Hotel Cross Sell,INTERNAL,Export Supplemental Data
+CP-H-CROSS-SELL Sup Impt 11 AM,Car Purchasers Hotel Cross Sell,INTERNAL,Import Supplemental Data
+CP-H-CROSS-SELL Sup Impt 2 PM,Car Purchasers Hotel Cross Sell,INTERNAL,Import Supplemental Data
+CP-H-CROSS-SELL Sup Impt 5 PM,Car Purchasers Hotel Cross Sell,INTERNAL,Import Supplemental Data
+Daily active import,N/A,INTERNAL,Import Profile Data
+Daily actives export,N/A,INTERNAL,Export Supplemental Data
+Daily inactive import,N/A,INTERNAL,Import Profile Data
+Daily inactives export,N/A,INTERNAL,Export Supplemental Data
+Daily MM_N snapshot import,N/A,INTERNAL,Import Supplemental Data
+Daily resubscribe export,N/A,INTERNAL,Export Supplemental Data
+Daily resubscribe import,N/A,INTERNAL,Import Profile Data
+Dynamic content CED export,N/A,INTERNAL,Export Feed Data
+Export AS Air-Car-Hotel DSS,Air Shopper,INTERNAL,Export Supplemental Data
+Export AS Air-Car-Hotel Prod,Air Shopper,INTERNAL,Export Supplemental Data
+Export CED - Minus OPEN,N/A,INTERNAL,Export Feed Data
+Export HFA_Customers_With_3YrO,N/A,INTERNAL,Export Supplemental Data
+Export HS MoU 1230PM,Hotel Shopper,INTERNAL,Export Supplemental Data
+Export HS MoU 330PM,Hotel Shopper,INTERNAL,Export Supplemental Data
+Export HS MoU 930AM,Hotel Shopper,INTERNAL,Export Supplemental Data
+Export inactive subscribers,N/A,INTERNAL,Export List Filter
+Export_CED_ETL_Responsys,N/A,INTERNAL,Export Feed Data
+Export_Daily_Data_Health,N/A,INTERNAL,Export Supplemental Data
+EXPORT_PRD_SEED,N/A,INTERNAL,Export Supplemental Data
+Exprt AS Air-Car-Hotel DSS 1PM,Air Shopper,INTERNAL,Export Supplemental Data
+Exprt AS Air-Car-Hotel DSS 4PM,Air Shopper,INTERNAL,Export Supplemental Data
+Exprt AS Air-Car-Hotel Prd 1PM,Air Shopper,INTERNAL,Export Supplemental Data
+Exprt AS Air-Car-Hotel Prd 4PM,Air Shopper,INTERNAL,Export Supplemental Data
+HP-C-CROSS-SELL Sup Exp 1115AM,Hotel Purchasers Car Cross Sell,INTERNAL,Export Supplemental Data
+HP-C-CROSS-SELL Sup Exp 215PM,Hotel Purchasers Car Cross Sell,INTERNAL,Export Supplemental Data
+HP-C-CROSS-SELL Sup Exp 515PM,Hotel Purchasers Car Cross Sell,INTERNAL,Export Supplemental Data
+HP-C-CROSS-SELL Sup Imp 1115AM,Hotel Purchasers Car Cross Sell,INTERNAL,Import Supplemental Data
+HP-C-CROSS-SELL Sup Imp 215PM,Hotel Purchasers Car Cross Sell,INTERNAL,Import Supplemental Data
+HP-C-CROSS-SELL Sup Imp 515PM,Hotel Purchasers Car Cross Sell,INTERNAL,Import Supplemental Data
+HS-C-CS Prod Export 1 PM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Export Supplemental Data
+HS-C-CS Prod Export 4 PM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Export Supplemental Data
+HS-C-CS Prod Import 0130PM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Import Supplemental Data
+HS-C-CS Prod Import 0430PM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Import Supplemental Data
+HS-C-CS Prod Import 1015AM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Import Supplemental Data
+HS-C-CS-Prod Purge Export,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Export Supplemental Data
+HS-C-CS-Prod Purge Import,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Import Supplemental Data
+HS-C-CS-Test Export 945 AM,Hotel Shopper - Car Cross Sell/Cross Sell Quoter,INTERNAL,Export Supplemental Data
+Import - Daily Data Health,N/A,INTERNAL,Import Supplemental Data
+Import AS Air-Car-Hotel DSS,Air Shopper,INTERNAL,Import Supplemental Data
+Import AS Air-Car-Hotel Prod,Air Shopper,INTERNAL,Import Supplemental Data
+Import AS MoU 0130PM,Air Shopper,INTERNAL,Import Supplemental Data
+Import AS MoU 0415PM,Air Shopper,INTERNAL,Import Supplemental Data
+Import AS MoU 1030AM,Air Shopper,INTERNAL,Import Supplemental Data
+Import CS MoU 0145PM,Car Shopper,INTERNAL,Import Supplemental Data
+Import CS MoU 0430PM,Car Shopper,INTERNAL,Import Supplemental Data
+Import CS MoU 1030AM,Car Shopper,INTERNAL,Import Supplemental Data
+Import HS MoU 10AM,Hotel Shopper,INTERNAL,Import Supplemental Data
+Import HS MoU 1PM,Hotel Shopper,INTERNAL,Import Supplemental Data
+Import HS MoU 4PM,Hotel Shopper,INTERNAL,Import Supplemental Data
+Import PAM Scores,N/A,INTERNAL,Import Profile Data
+Import WBH MoU,Welcome Back Hotel,INTERNAL,Import Profile Data
+Import WBH MoU 2,Welcome Back Hotel,INTERNAL,Import Profile Data
+Import_STRAT_STO_PET,N/A,INTERNAL,Import Profile Data
+Imprt AS Air-Car-Htl DSS 130PM,Air Shopper,INTERNAL,Import Supplemental Data
+Imprt AS Air-Car-Htl DSS 430PM,Air Shopper,INTERNAL,Import Supplemental Data
+Imprt AS Air-Car-Htl Prd 130PM,Air Shopper,INTERNAL,Import Supplemental Data
+Imprt AS Air-Car-Htl Prd 430PM,Air Shopper,INTERNAL,Import Supplemental Data
+Load Welcome Back Coupons,Welcome Back Hotel - Coupons,INTERNAL,Import Supplemental Data
+MASS_MAILINGS_N Export,N/A,INTERNAL,Export Supplemental Data
+NEW_!EXPORT_CED_BOUNCE_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NEW_!EXPORT_CED_CLICK_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NEW_!EXPORT_CED_LAUNCH_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NEW_!EXPORT_CED_OPEN_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NEW_!EXPORT_CED_SENT_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NEW_CL Full Export,N/A,EXTERNAL,Export Supplemental Data
+NEW_Cust_last_activity_import,N/A,EXTERNAL,Import Profile Data
+NEW_Export - Bounced Feed,N/A,EXTERNAL,Export List Filter
+NEW_HW_Customer_Segmentation,N/A,EXTERNAL,Import Profile Data
+NEW_HW_RFM_Weekly,N/A,EXTERNAL,Import Profile Data
+NEW_Import CTR - 5AM,Car Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import CTR - 7AM,Car Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import CTR - 9AM,Car Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import HTR - 5AM,Hotel Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import HTR - 7AM,Hotel Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import HTR - 9AM,Hotel Trip Reminder,EXTERNAL,Import Supplemental Data
+NEW_Import HTR Retail 5AM,Hotel Trip Reminder - Retail,EXTERNAL,Import Supplemental Data
+NEW_Import HTR Retail 7AM,Hotel Trip Reminder - Retail,EXTERNAL,Import Supplemental Data
+NEW_Import HTR Retail 9AM,Hotel Trip Reminder - Retail,EXTERNAL,Import Supplemental Data
+NEW_Import Ret to HR Prd 7AM,Retail to HR,EXTERNAL,Import Supplemental Data
+NEW_Import Retail to HR Prod,Retail to HR,EXTERNAL,Import Supplemental Data
+NEW_Import Shopper File 12PM,Master of Universe/Shopper file,EXTERNAL,Import Supplemental Data
+NEW_Import Shopper File 3PM,Master of Universe/Shopper file,EXTERNAL,Import Supplemental Data
+NEW_Import Shopper File 9AM,Master of Universe/Shopper file,EXTERNAL,Import Supplemental Data
+NEW_Import_CIR_1,Car Insurance Reminder,EXTERNAL,Import Profile Data
+NEW_Import_CIR_2,Car Insurance Reminder,EXTERNAL,Import Profile Data
+NEW_Import_CIR_3,Car Insurance Reminder,EXTERNAL,Import Profile Data
+NEW_Import_PAA_12PM,Price Alert Air,EXTERNAL,Import Supplemental Data
+NEW_Import_PAC_ConsP 12PM,Price Alert Car,EXTERNAL,Import Supplemental Data
+NEW_Import_PAC_ConsP 3PM,Price Alert Car,EXTERNAL,Import Supplemental Data
+NEW_Import_PAC_ConsP 9AM,Price Alert Car,EXTERNAL,Import Supplemental Data
+NEW_Import_PAH_ConsP 12PM,Price Alert Hotel,EXTERNAL,Import Supplemental Data
+NEW_Import_PAH_ConsP 3PM,Price Alert Hotel,EXTERNAL,Import Supplemental Data
+NEW_Import_PAH_ConsP 9AM,Price Alert Hotel,EXTERNAL,Import Supplemental Data
+NEW_Import_Price_Alert_Air_2PM,Price Alert Air,EXTERNAL,Import Supplemental Data
+NEW_Update MM,N/A,EXTERNAL,Import Profile Data
+NW_!EXPORT_CED_OPT_OUT_HOTWIRE,N/A,EXTERNAL,Export Supplemental Data
+NW_Air_Trip_Reminder_Supp_Upld,Air Trip Reminder,EXTERNAL,Import Supplemental Data
+OTH Hotel HMZ ALL Regions,N/A,INTERNAL,Import Supplemental Data
+OTH Hotel Pwer Offr All Region,N/A,INTERNAL,Import Supplemental Data
+Persado Segments Export,N/A,INTERNAL,Export Supplemental Data
+Persado Segments Import,N/A,INTERNAL,Import Supplemental Data
+Preferred_LOB_DL,N/A,INTERNAL,Export Supplemental Data
+Preferred_LOB_UL,N/A,INTERNAL,Import Profile Extension Data
+Segmentation Data Export,N/A,INTERNAL,Export Supplemental Data
+Segmentation data import,N/A,INTERNAL,Import Profile Extension Data
+Welcome Back Hotel All Export,Welcome Back Hotel,INTERNAL,Export Supplemental Data
+Welcome Back Hotel All Export2,Welcome Back Hotel,INTERNAL,Export Supplemental Data
+Welcome Back Hotel Sent Today,Welcome Back Hotel,INTERNAL,Export Supplemental Data
