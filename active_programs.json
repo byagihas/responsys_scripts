@@ -1,0 +1,749 @@
+{
+    "programs": [{
+            "id": 11419825,
+            "name": "PRD_Program",
+            "folderName": "_PRD_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "09/09/2016",
+            "createdBy": "N/A",
+            "modifiedOn": "30/12/2016",
+            "modifiedBy": "N/A",
+            "publishDate": "30/12/2016",
+            "unpublishDate": "06/10/2016",
+            "status": "RUNNING"
+        },
+        {
+            "id": 11530865,
+            "name": "Welcome_Batch_Test_List",
+            "folderName": "_Welcome_Test_Batch",
+            "listName": "TEST_CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "31/01/2017",
+            "createdBy": "N/A",
+            "modifiedOn": "09/02/2017",
+            "modifiedBy": "Admin",
+            "publishDate": "09/02/2017",
+            "unpublishDate": "09/02/2017",
+            "status": "RUNNING"
+        },
+        {
+            "id": 11482145,
+            "name": "PRD_SPLIT_VID",
+            "folderName": "_PRD_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "29/11/2016",
+            "createdBy": "Admin",
+            "modifiedOn": "10/02/2017",
+            "modifiedBy": "N/A",
+            "publishDate": "10/02/2017",
+            "unpublishDate": "10/02/2017",
+            "status": "RUNNING"
+        },
+        {
+            "id": 11560965,
+            "name": "sticky_ab_test",
+            "folderName": "z_DS",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "08/03/2017",
+            "createdBy": "Admin",
+            "modifiedOn": "08/03/2017",
+            "modifiedBy": "Admin",
+            "publishDate": "08/03/2017",
+            "unpublishDate": "08/03/2017",
+            "status": "RUNNING"
+        },
+        {
+            "id": 11692045,
+            "name": "KT_test",
+            "folderName": "z_Responsys_Support",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "25/05/2017",
+            "createdBy": "Admin",
+            "modifiedOn": "25/05/2017",
+            "modifiedBy": "Admin",
+            "publishDate": "25/05/2017",
+            "status": "RUNNING"
+        },
+        {
+            "id": 11384705,
+            "name": "COHORT_DATA_CREATION",
+            "folderName": "Cohort_Testing",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "29/07/2016",
+            "createdBy": "Admin",
+            "modifiedOn": "01/06/2017",
+            "modifiedBy": "Jenn L. @ Hotwire",
+            "publishDate": "01/06/2017",
+            "unpublishDate": "01/06/2017",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12268925,
+            "name": "Dync_VID_Test",
+            "folderName": "z_Niyati",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "13/03/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "13/03/2018",
+            "modifiedBy": "Admin",
+            "publishDate": "13/03/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12319325,
+            "name": "Research_Invite",
+            "folderName": "_Research",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "12/04/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "08/05/2018",
+            "modifiedBy": "N/A",
+            "publishDate": "08/05/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12319585,
+            "name": "Research_Schedule",
+            "folderName": "_Research",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "12/04/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "08/05/2018",
+            "modifiedBy": "N/A",
+            "publishDate": "08/05/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12471585,
+            "name": "TEST_RRT_PROGRAM",
+            "folderName": "z_Test_ShawScott",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "13/07/2018",
+            "createdBy": "cs@shawscott.com",
+            "modifiedOn": "13/07/2018",
+            "modifiedBy": "cs@shawscott.com",
+            "publishDate": "13/07/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12566725,
+            "name": "Post_Trip_Survey_Hotel_Program_Test_20180820",
+            "folderName": "_Post_Trip_Survey_Test",
+            "listName": "TEST_CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "12/09/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "12/09/2018",
+            "modifiedBy": "Admin",
+            "publishDate": "12/09/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12566805,
+            "name": "Post_Trip_Survey_Car_Program_Test_20180820",
+            "folderName": "_Post_Trip_Survey_Test",
+            "listName": "TEST_CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "12/09/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "19/12/2018",
+            "modifiedBy": "brandon.yagihashi@hwire",
+            "publishDate": "19/12/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12543205,
+            "name": "Post_Trip_Survey_Car_Program_20180820",
+            "folderName": "_Post_Trip_Survey_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "28/08/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "03/04/2019",
+            "modifiedBy": "Jenn L. @ Hotwire",
+            "publishDate": "03/04/2019",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13144425,
+            "name": "PAM_Test_Audience_Sorting",
+            "folderName": "!PAM_Test",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "05/09/2019",
+            "createdBy": "N/A",
+            "modifiedOn": "17/09/2019",
+            "modifiedBy": "Admin",
+            "publishDate": "17/09/2019",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12401725,
+            "name": "Welcome_Batch_Prod_20180604",
+            "folderName": "_Welcome_Prod_Batch",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "01/06/2018",
+            "createdBy": "N/A",
+            "modifiedOn": "08/11/2019",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "08/11/2019",
+            "unpublishDate": "04/09/2019",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13071965,
+            "name": "Welcome_API_Prod_20190725",
+            "folderName": "_Welcome_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "25/07/2019",
+            "createdBy": "Admin",
+            "modifiedOn": "08/11/2019",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "08/11/2019",
+            "unpublishDate": "29/07/2019",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12542865,
+            "name": "Post_Trip_Survey_Hotel_Program_20180820",
+            "folderName": "_Post_Trip_Survey_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "28/08/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "31/01/2020",
+            "modifiedBy": "Danny Fehrenbach",
+            "publishDate": "03/12/2018",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13017285,
+            "name": "Hotel_Trip_Reminder_Retail_20190621",
+            "folderName": "_HotelTripReminder",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "24/06/2019",
+            "createdBy": "Admin",
+            "modifiedOn": "18/03/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "05/03/2020",
+            "unpublishDate": "05/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13447365,
+            "name": "_COVID19_Eligible_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "20/03/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "26/03/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "26/03/2020",
+            "unpublishDate": "26/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13454465,
+            "name": "_COVID19_Not_Submitted_Hotel_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "25/03/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "31/03/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "31/03/2020",
+            "unpublishDate": "31/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13462205,
+            "name": "_COVID19_Car_Cancellation_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "31/03/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "06/04/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "06/04/2020",
+            "unpublishDate": "06/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13465405,
+            "name": "_COVID19_Car_Refund_Hot_Dollars_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "03/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "10/04/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "10/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13473425,
+            "name": "_COVID19_Car_Vendor_Closed_Postpaid_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "14/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "17/04/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "17/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13473345,
+            "name": "_COVID19_Car_Vendor_Closed_Prepaid_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "14/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "20/04/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "20/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13441065,
+            "name": "_COVID19_HotelCancellation_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "18/03/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "21/04/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "21/04/2020",
+            "unpublishDate": "26/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13457245,
+            "name": "_COVID19_Air_Cancellation_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "27/03/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "21/04/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "21/04/2020",
+            "unpublishDate": "28/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13478285,
+            "name": "_COVID19_24_Hour_Cancel_Hotel_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "21/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "21/04/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "21/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13465685,
+            "name": "_COVID19_Car_Refund_Cash_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "03/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "25/04/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "25/04/2020",
+            "unpublishDate": "08/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13474285,
+            "name": "_COVID19_Eligible_WhiteGlove_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "15/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "30/04/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "30/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13460985,
+            "name": "_COVID19_Hotel_Closed_Error_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "30/03/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "30/04/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "30/04/2020",
+            "unpublishDate": "30/03/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13490345,
+            "name": "_COVID19_Not_Eligible_Car_Cancellation_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "06/05/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "07/05/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "07/05/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13488745,
+            "name": "_COVID19_Not_Eligible_H_TooLate_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "05/05/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "07/05/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "07/05/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13483685,
+            "name": "_COVID19_Not_Eligible_Car_Refund",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "28/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "07/05/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "07/05/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13491265,
+            "name": "_COVID19_Not_Eligible_Car_Refund_HD_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "07/05/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "07/05/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "07/05/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13472385,
+            "name": "COVID19_Not_Eligible_Hotel_Cancellation_Program",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "13/04/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "02/06/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "02/06/2020",
+            "unpublishDate": "01/06/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 12238785,
+            "name": "Air_Trip_Reminder_20180228",
+            "folderName": "_AirTripReminder",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "20/02/2018",
+            "createdBy": "Admin",
+            "modifiedOn": "05/06/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "05/06/2020",
+            "unpublishDate": "24/01/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13034785,
+            "name": "_CarTripReminder_Program_20190703",
+            "folderName": "_CarTripReminder",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "03/07/2019",
+            "createdBy": "Jenn L. @ Hotwire",
+            "modifiedOn": "15/06/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "15/06/2020",
+            "unpublishDate": "09/04/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13534085,
+            "name": "_COVID19_Hawaii_Proactive_Outreach",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "16/06/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "16/06/2020",
+            "modifiedBy": "Team India (OMC) @ Hotwire",
+            "publishDate": "16/06/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13543345,
+            "name": "_COVID19_Hertz_20200622",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "22/06/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "25/06/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "25/06/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13554325,
+            "name": "_COVID19_Tri_City_Outreach",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "29/06/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "07/07/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "07/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13548705,
+            "name": "Car_Shopper_Prod_DSSTest_20200706",
+            "folderName": "_Car_Shopper_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "25/06/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "08/07/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "08/07/2020",
+            "unpublishDate": "06/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13567425,
+            "name": "_COVID19_New_Mexico_Outreach",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "07/07/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "08/07/2020",
+            "modifiedBy": "Team India (OMC) @ Hotwire",
+            "publishDate": "08/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13567065,
+            "name": "20200710_PRD_Program",
+            "folderName": "_PRD_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "07/07/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "09/07/2020",
+            "modifiedBy": "David Kim (OMC) @ Hotwire",
+            "publishDate": "09/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13577785,
+            "name": "_COVID19_Sixt_Voucher",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "14/07/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "14/07/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "14/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13515905,
+            "name": "Hotel_Shopper_ModTemp_DSSTest_20200622",
+            "folderName": "_Hotel_Shopper_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "05/06/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "15/07/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "15/07/2020",
+            "unpublishDate": "14/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13579465,
+            "name": "_COVID19_State_Outreach",
+            "folderName": "_API_Transactional_Prod",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "15/07/2020",
+            "createdBy": "quinn.lawrence",
+            "modifiedOn": "15/07/2020",
+            "modifiedBy": "quinn.lawrence",
+            "publishDate": "15/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13017065,
+            "name": "_HotelTripReminder_Program_20190621",
+            "folderName": "_HotelTripReminder",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "24/06/2019",
+            "createdBy": "Admin",
+            "modifiedOn": "22/07/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "22/07/2020",
+            "unpublishDate": "22/07/2020",
+            "status": "RUNNING"
+        },
+        {
+            "id": 13591325,
+            "name": "20200724_MI_Postcard_Program",
+            "folderName": "Postcard - Monthly",
+            "listName": "CONTACTS_LIST",
+            "channels": [
+                "EMAIL"
+            ],
+            "createdOn": "23/07/2020",
+            "createdBy": "Admin",
+            "modifiedOn": "23/07/2020",
+            "modifiedBy": "Admin",
+            "publishDate": "23/07/2020",
+            "status": "RUNNING"
+        }
+    ],
+    "links": [{
+        "rel": "self",
+        "href": "/rest/api/v1.3/programs?status=RUNNING",
+        "method": "GET"
+    }]
+}
